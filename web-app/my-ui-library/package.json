@@ -1,0 +1,29 @@
+{
+  "name": "my-ui-library",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "Pushpendra-1697 <104748364+Pushpendra-1697@users.noreply.github.com>",
+  "homepage": "https://github.com/Pushpendra-1697/Counter_App#readme",
+  "license": "ISC",
+  "main": "lib/my-ui-library.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pushpendra-1697/Counter_App.git"
+  },
+  "scripts": {
+    "test": "node ./__tests__/my-ui-library.test.js"
+  },
+  "bugs": {
+    "url": "https://github.com/Pushpendra-1697/Counter_App/issues"
+  },
+  "dependencies": {
+    "snabbdom": "^3.6.2"
+  }
+}
